@@ -266,12 +266,12 @@ export default function HomePage() {
                     Non-Technical
                   </h1>
                 </div>
+                <p className="max-w-lg py-3 text-center text-xs text-white">
+                  Includes subdivision for social branding, external and
+                  sponsorship, and finance and administration, NTC is
+                  responsible for all the non-technical activity in the team
+                </p>
               </div>
-              <p className="max-w-lg py-3 text-center text-xs text-white">
-                Includes subdivision for social branding, external and
-                sponsorship, and finance and administration, NTC is responsible
-                for all the non-technical activity in the team
-              </p>
               <div className="mb-10 flex flex-col items-center rounded-t-xl bg-transparent px-7 py-11 shadow-2xl">
                 <div className="">
                   <Image
